@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.AssemblyInfo.cs
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.exe
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.deps.json
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.runtimeconfig.json
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.dll
+C:\Users\soare\source\repos\Subtract\Subtract\bin\Debug\netcoreapp3.1\Subtract.pdb
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.dll
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.pdb
+C:\Users\soare\source\repos\Subtract\Subtract\obj\Debug\netcoreapp3.1\Subtract.genruntimeconfig.cache

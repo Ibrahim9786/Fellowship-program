@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfo.cs
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.exe
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.deps.json
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.json
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.dll
+C:\Users\soare\source\repos\Addition\Addition\bin\Debug\netcoreapp3.1\Addition.pdb
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.dll
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.pdb
+C:\Users\soare\source\repos\Addition\Addition\obj\Debug\netcoreapp3.1\Addition.genruntimeconfig.cache

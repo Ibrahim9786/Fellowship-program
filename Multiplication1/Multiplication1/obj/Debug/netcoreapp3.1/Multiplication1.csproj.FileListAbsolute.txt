@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.exe
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.deps.json
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.runtimeconfig.json
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.dll
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\bin\Debug\netcoreapp3.1\Multiplication1.pdb
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.AssemblyInfo.cs
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.dll
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.pdb
+C:\Users\soare\source\repos\Multiplication1\Multiplication1\obj\Debug\netcoreapp3.1\Multiplication1.genruntimeconfig.cache
