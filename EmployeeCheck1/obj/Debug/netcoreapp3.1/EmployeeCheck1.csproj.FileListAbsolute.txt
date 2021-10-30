@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.exe
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.deps.json
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.dll
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\bin\Debug\netcoreapp3.1\EmployeeCheck1.pdb
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.dll
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.pdb
+C:\Users\soare\source\repos\Fellowship-program\EmployeeCheck1\EmployeeCheck1\obj\Debug\netcoreapp3.1\EmployeeCheck1.genruntimeconfig.cache
