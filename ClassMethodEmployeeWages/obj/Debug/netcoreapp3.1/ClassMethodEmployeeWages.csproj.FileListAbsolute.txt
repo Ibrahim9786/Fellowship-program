@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.exe
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.deps.json
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.dll
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\bin\Debug\netcoreapp3.1\ClassMethodEmployeeWages.pdb
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.dll
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.pdb
+C:\Users\soare\source\repos\Fellowship-program\ClassMethodEmployeeWages\ClassMethodEmployeeWages\obj\Debug\netcoreapp3.1\ClassMethodEmployeeWages.genruntimeconfig.cache
