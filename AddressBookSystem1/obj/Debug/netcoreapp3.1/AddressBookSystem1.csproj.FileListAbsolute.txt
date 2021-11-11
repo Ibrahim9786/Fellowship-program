@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.exe
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.deps.json
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.dll
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\bin\Debug\netcoreapp3.1\AddressBookSystem1.pdb
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.dll
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.pdb
+C:\Users\soare\source\repos\Fellowship-program\AddressBookSystem1\AddressBookSystem1\obj\Debug\netcoreapp3.1\AddressBookSystem1.genruntimeconfig.cache
