@@ -1,0 +1,15 @@
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\InventoryManagementProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\InventoryManagementProgram\InventoryManagementProgram\obj\Debug\netcoreapp3.1\InventoryManagementProgram.genruntimeconfig.cache

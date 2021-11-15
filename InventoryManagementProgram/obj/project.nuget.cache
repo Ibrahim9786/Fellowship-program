@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0/hRgrTzJYLIO+tpH857LR06UfyLCWYm0mFEejJp/Qs9MWzFDviE5x3/yum1zh/pjghgHakXS312MhDaOQQ0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soare\\source\\repos\\Fellowship-program\\InventoryManagementProgram\\InventoryManagementProgram\\InventoryManagementProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soare\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
