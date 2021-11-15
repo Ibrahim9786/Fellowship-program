@@ -1,0 +1,38 @@
+{
+  "Rice": [
+    {
+      "Name": "Basumati",
+      "Weight": "1kg",
+      "Price": "220"
+    },
+    {
+      "Name": "Bullet",
+      "Weight": "2kg",
+      "Price": "320"
+    }
+  ],
+  "Pulses": [
+    {
+      "Name": "Greengram",
+      "Weight": "1kg",
+      "Price": "120"
+    },
+    {
+      "Name": "Horsegram",
+      "Weight": "1kg",
+      "Price": "200"
+    }
+  ],
+  "Wheat": [
+    {
+      "Name": "Agra",
+      "Weight": "4kg",
+      "Price": "210"
+    },
+    {
+      "Name": "Taj",
+      "Weight": "8kg",
+      "Price": "780"
+    }
+  ]
+}
