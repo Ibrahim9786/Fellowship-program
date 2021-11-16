@@ -1,0 +1,9 @@
+﻿2021-11-14 19:40:19.3656|INFO|NlogApplication.Nlog|Addition method executed
+2021-11-14 19:40:19.3656|DEBUG|NlogApplication.Nlog|Debug Successfully
+2021-11-14 19:40:19.3656|WARN|NlogApplication.Nlog|First Number and Second number is not zero
+2021-11-15 16:15:44.8641|INFO|NlogApplication.Nlog|Addition method executed
+2021-11-15 16:15:44.8790|DEBUG|NlogApplication.Nlog|Debug Successfully
+2021-11-15 16:15:44.8790|WARN|NlogApplication.Nlog|First Number and Second number is not zero
+2021-11-16 12:27:06.0477|INFO|NlogApplication.Nlog|Addition method executed
+2021-11-16 12:27:06.0689|DEBUG|NlogApplication.Nlog|Debug Successfully
+2021-11-16 12:27:06.0689|WARN|NlogApplication.Nlog|First Number and Second number is not zero
