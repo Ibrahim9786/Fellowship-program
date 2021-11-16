@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.exe
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.deps.json
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.dll
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\bin\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.pdb
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.dll
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.pdb
+C:\Users\soare\source\repos\Fellowship-program\TotalWageWhwnQueriedByCompany\TotalWageWhwnQueriedByCompany\obj\Debug\netcoreapp3.1\TotalWageWhwnQueriedByCompany.genruntimeconfig.cache
