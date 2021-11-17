@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.exe
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\bin\Debug\netcoreapp3.1\MaximumOfThreeFloats.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeFloats\MaximumOfThreeFloats\obj\Debug\netcoreapp3.1\MaximumOfThreeFloats.genruntimeconfig.cache
