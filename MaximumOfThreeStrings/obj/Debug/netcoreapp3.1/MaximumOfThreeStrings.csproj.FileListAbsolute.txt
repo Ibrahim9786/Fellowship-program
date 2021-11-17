@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.exe
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\bin\Debug\netcoreapp3.1\MaximumOfThreeStrings.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.genruntimeconfig.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfThreeStrings\MaximumOfThreeStrings\obj\Debug\netcoreapp3.1\MaximumOfThreeStrings.csproj.AssemblyReference.cache
