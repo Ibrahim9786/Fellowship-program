@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.exe
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\bin\Debug\netcoreapp3.1\MaximunOfThreeIntegers.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximunOfThreeIntegers\MaximunOfThreeIntegers\obj\Debug\netcoreapp3.1\MaximunOfThreeIntegers.genruntimeconfig.cache
