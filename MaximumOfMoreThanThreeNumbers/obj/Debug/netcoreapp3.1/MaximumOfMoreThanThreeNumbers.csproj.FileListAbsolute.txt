@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.exe
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\bin\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.dll
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.pdb
+C:\Users\soare\source\repos\Fellowship-program\MaximumOfMoreThanThreeNumbers\MaximumOfMoreThanThreeNumbers\obj\Debug\netcoreapp3.1\MaximumOfMoreThanThreeNumbers.genruntimeconfig.cache
