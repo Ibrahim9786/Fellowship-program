@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StackAndQueue1/1.0.0": {
+        "runtime": {
+          "StackAndQueue1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackAndQueue1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
