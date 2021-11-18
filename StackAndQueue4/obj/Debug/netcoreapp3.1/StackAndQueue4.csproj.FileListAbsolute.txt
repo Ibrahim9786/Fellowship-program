@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.exe
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.deps.json
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.dll
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\bin\Debug\netcoreapp3.1\StackAndQueue4.pdb
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.dll
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.pdb
+C:\Users\soare\source\repos\Fellowship-program\StackAndQueue4\StackAndQueue4\obj\Debug\netcoreapp3.1\StackAndQueue4.genruntimeconfig.cache
