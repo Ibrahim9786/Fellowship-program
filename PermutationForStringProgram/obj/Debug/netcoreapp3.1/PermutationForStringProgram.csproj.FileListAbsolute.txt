@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\bin\Debug\netcoreapp3.1\PermutationForStringProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\PermutationForStringProgram\PermutationForStringProgram\obj\Debug\netcoreapp3.1\PermutationForStringProgram.genruntimeconfig.cache
