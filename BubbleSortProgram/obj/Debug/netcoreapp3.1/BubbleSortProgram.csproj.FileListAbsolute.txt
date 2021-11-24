@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\bin\Debug\netcoreapp3.1\BubbleSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\BubbleSortProgram\BubbleSortProgram\obj\Debug\netcoreapp3.1\BubbleSortProgram.genruntimeconfig.cache
