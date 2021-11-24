@@ -1,0 +1,13 @@
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\bin\Debug\netcoreapp3.1\PalindromeProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\PalindromeProgram\PalindromeProgram\obj\Debug\netcoreapp3.1\PalindromeProgram.genruntimeconfig.cache
