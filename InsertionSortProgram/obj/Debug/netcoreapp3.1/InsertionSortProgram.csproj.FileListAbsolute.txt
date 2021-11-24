@@ -1,0 +1,13 @@
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\bin\Debug\netcoreapp3.1\InsertionSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\InsertionSortProgram\InsertionSortProgram\obj\Debug\netcoreapp3.1\InsertionSortProgram.genruntimeconfig.cache
