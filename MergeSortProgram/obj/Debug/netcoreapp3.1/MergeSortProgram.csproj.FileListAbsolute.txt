@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.exe
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\bin\Debug\netcoreapp3.1\MergeSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.dll
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.pdb
+C:\Users\soare\source\repos\Fellowship-program\MergeSortProgram\MergeSortProgram\obj\Debug\netcoreapp3.1\MergeSortProgram.genruntimeconfig.cache
