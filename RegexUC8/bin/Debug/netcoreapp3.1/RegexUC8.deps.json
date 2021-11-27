@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RegexUC8/1.0.0": {
+        "runtime": {
+          "RegexUC8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegexUC8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
