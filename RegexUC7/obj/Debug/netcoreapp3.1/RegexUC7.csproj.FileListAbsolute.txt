@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.exe
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.deps.json
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.dll
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\bin\Debug\netcoreapp3.1\RegexUC7.pdb
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.dll
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.pdb
+C:\Users\soare\source\repos\Fellowship-program\RegexUC7\RegexUC7\obj\Debug\netcoreapp3.1\RegexUC7.genruntimeconfig.cache
