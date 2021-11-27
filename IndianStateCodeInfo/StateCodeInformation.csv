@@ -1,0 +1,38 @@
+state,serialnumber,code
+Jammu and Kashmir,01,JK
+Himachal Pradesh,02,HP
+Punjab,03,PB
+Chandigarh,04,CH
+Uttarakhand,05,UT
+Haryana,06,HR
+Delhi,07,DL
+Rajasthan,08,RJ
+Uttar Pradesh,09,UP
+Bihar,10,BH
+Sikkim,11,SK
+Arunachal Pradesh,12,AR
+Nagaland,13,NL
+Manipur,14,MN
+Mizoram,15,MI
+Tripura,16,TR
+Meghalaya,17,ME
+Assam,18,AS
+West Bengal,19,WB
+Jharkhand,20,JH
+Odisha,21,OR
+Chattisgarh,22,CT
+Madhya Pradesh,23,MP
+Gujarat,24,GJ
+Daman and Diu,25,DD
+Dadra and Nagar Haveli,26,DN
+Maharashtra,27,MH
+Andhra Pradesh,28,AP
+Karnataka,29,KA
+Goa,30,GA
+Lakshadweep Islands,31,LD
+Kerala,32,KL
+Tamil Nadu,33,TN
+Pondicherry,34,PY
+Andaman and Nicobar Islands,35,AN
+Telangana,36,TS
+Andhra Pradesh (New),37,AD
