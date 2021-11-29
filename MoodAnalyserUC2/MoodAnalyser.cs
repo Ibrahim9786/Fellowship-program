@@ -6,9 +6,28 @@ namespace MoodAnalyserUC2
 {
     public class MoodAnalyser
     {
-        public string GetMood(string mood, string s)
+        private string message;
+        public MoodAnalyser(string message)
         {
-            return string.Concat(mood);
+            this.message = message;
+        }
+        public string AnalyserMood()
+        {
+            try
+            {
+                if (this.message.Contains("Sad"))
+                {
+                    return "SAD";
+                }
+                else
+                {
+                    return "HAPPY";
+                }
+            }
+            catch
+            {
+                return "HAPPY";
+            }
         }
     }
 }
