@@ -1,0 +1,14 @@
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.exe
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.deps.json
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.runtimeconfig.json
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.runtimeconfig.dev.json
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.dll
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\bin\Debug\netcoreapp3.1\MoodAnalyserUC2.pdb
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.csproj.AssemblyReference.cache
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.AssemblyInfoInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.AssemblyInfo.cs
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.csproj.CoreCompileInputs.cache
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.dll
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.pdb
+C:\Users\soare\source\repos\Fellowship-program\MoodAnalyserUC2\MoodAnalyserUC2\obj\Debug\netcoreapp3.1\MoodAnalyserUC2.genruntimeconfig.cache
